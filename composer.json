@@ -1,12 +1,12 @@
 {
-    "name": "r4j4h/php-druid-query",
+    "name": "waltertan12/php-druid-query",
     "description": "Experimental PHP wrapper around querying druid",
     "keywords": ["druid", "querying", "query", "parameterized query"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jasmine Hegman",
-            "email": "hegpetz@gmail.com",
+            "name": "Walter Tan",
+            "email": "waltertan12@gmail.com",
             "role": "Developer"
         }
     ],
